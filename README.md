@@ -7,6 +7,7 @@ For now I'm only uploading visual results complete model and evaluation metrics 
 
 The image below is a grid visualization of network's output in **real time**. The grid are in following order as shown in tabel.
 To keep the video size small I only show 12 most important channels (seperatrly in grid) out of 20 channels of cityscape dataset.
+
 **Grid Format**
 | original video| -| All Channel<br>Output|-|
 | ------------- |:-------------:| -----:|-----:|
