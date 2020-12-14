@@ -21,5 +21,6 @@ To keep the video size small I only show 12 most important channels (seperatrly 
 The below image shows overlayed image version of the results (i.e networks prediction overlayed over the original video)
 
 ![alt text](https://github.com/Mr-TalhaIlyas/Semantic-Segmentation-Cityscape-Mapillary-Vistas-Dataset-Autonomous-Driving-/blob/master/screens/overlay.gif)
+
 [Watch Full video at Youtube](https://www.youtube.com/watch?v=RdxG8DGrJ9E)
 
